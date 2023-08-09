@@ -1,4 +1,4 @@
-# qrtst4
+# QRScanner To QR
 
 A new Flutter project.
 
